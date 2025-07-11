@@ -13,7 +13,7 @@
 
     <header class="navbar">
         <div class="logo">
-            <img src="logo.png" alt="Logo" class="logo-img" />
+            <img src="assets/logo.png" alt="Logo" class="logo-img" />
             <span class="logo-text">NTS Website Redesign</span>
         </div>
         <nav>
@@ -51,37 +51,37 @@
 
             <div class="services-grid">
                 <div class="service-card">
-                    <img src="project.png" alt="Kaamigo Icon" class="icon">
+                    <img src="assets/sample.png" alt="Kaamigo Icon" class="icon">
                     <h3>Kaamigo</h3>
                     <p>Connecting skilled workers with opportunities.</p>
                     <a href="kaamigo.html" class="learn-more">Learn More <i class='bx bx-right-arrow-alt'></i></a>
                 </div>
                 <div class="service-card">
-                    <img src="icons/tradezy.svg" alt="Tradezy Icon" class="icon">
+                    <img src="assets/sample.png" alt="Tradezy Icon" class="icon">
                     <h3>Tradezy</h3>
                     <p>Streamlining global trade logistics and finance.</p>
                     <a href="tradezy.html" class="learn-more">Learn More <i class='bx bx-right-arrow-alt'></i></a>
                 </div>
                 <div class="service-card">
-                    <img src="icons/sawari.svg" alt="Sawari Icon" class="icon">
+                    <img src="assets/sample.png" alt="Sawari Icon" class="icon">
                     <h3>Sawari</h3>
                     <p>Optimizing ride-sharing and urban mobility solutions.</p>
                     <a href="sawari.html" class="learn-more">Learn More <i class='bx bx-right-arrow-alt'></i></a>
                 </div>
                 <div class="service-card">
-                    <img src="icons/agrowings.svg" alt="Agrowings Icon" class="icon">
+                    <img src="assets/sample.png" alt="Agrowings Icon" class="icon">
                     <h3>Agrowings</h3>
                     <p>Advanced agricultural technology for sustainable farming.</p>
                     <a href="agrowings.html" class="learn-more">Learn More <i class='bx bx-right-arrow-alt'></i></a>
                 </div>
                 <div class="service-card">
-                    <img src="icons/urban-utility.svg" alt="Urban Utility Icon" class="icon">
+                    <img src="assets/sample.png" alt="Urban Utility Icon" class="icon">
                     <h3>Urban Utility</h3>
                     <p>Smart city solutions for efficient resource management.</p>
                     <a href="urban-utility.html" class="learn-more">Learn More <i class='bx bx-right-arrow-alt'></i></a>
                 </div>
                 <div class="service-card">
-                    <img src="icons/digital-enablement.svg" alt="Digital Enablement Icon" class="icon">
+                    <img src="assets/sample.png" alt="Digital Enablement Icon" class="icon">
                     <h3>Digital Enablement</h3>
                     <p>Empowering businesses with cutting-edge digital tools.</p>
                     <a href="digital-enablement.html" class="learn-more">Learn More <i class='bx bx-right-arrow-alt'></i></a>
@@ -93,7 +93,7 @@
         <section class="about-nts">
             <div class="about-container">
                 <div class="about-image">
-                    <img src="assets/image.png" alt="Innovation and Excellence" />
+                    <img src="assets/logo.png" alt="Innovation and Excellence" />
                     <h3>Innovation & Excellence</h3>
                 </div>
                 <div class="about-text">
@@ -121,7 +121,7 @@
 
             <div class="creations-grid">
                 <div class="creation-card">
-                    <img src="project.png" alt="Harmony House">
+                    <img src="assets/sample.png" alt="Harmony House">
                     <div class="creation-info">
                         <h3>Harmony House</h3>
                         <span class="category">Residential</span>
@@ -130,7 +130,7 @@
                 </div>
 
                 <div class="creation-card">
-                    <img src="projects/coffee-corner.jpg" alt="The Coffee Corner">
+                    <img src="assets/sample.png" alt="The Coffee Corner">
                     <div class="creation-info">
                         <h3>The Coffee Corner</h3>
                         <span class="category">Commercial</span>
@@ -139,7 +139,7 @@
                 </div>
 
                 <div class="creation-card">
-                    <img src="projects/paradis-hotel.jpg" alt="Paradis Hotel">
+                    <img src="assets/sample.png" alt="Paradis Hotel">
                     <div class="creation-info">
                         <h3>Paradis Hotel</h3>
                         <span class="category">Hospitality</span>
@@ -148,7 +148,7 @@
                 </div>
 
                 <div class="creation-card">
-                    <img src="projects/neuwave-offices.jpg" alt="NeuWave Offices">
+                    <img src="assets/sample.png" alt="NeuWave Offices">
                     <div class="creation-info">
                         <h3>NeuWave Offices</h3>
                         <span class="category">Corporate</span>
@@ -157,7 +157,7 @@
                 </div>
 
                 <div class="creation-card">
-                    <img src="projects/tranquil-spa.jpg" alt="Tranquil Tides Spa">
+                    <img src="assets/sample.png" alt="Tranquil Tides Spa">
                     <div class="creation-info">
                         <h3>Tranquil Tides Spa</h3>
                         <span class="category">Wellness</span>
@@ -166,7 +166,7 @@
                 </div>
 
                 <div class="creation-card">
-                    <img src="projects/charming-cottage.jpg" alt="Charming Cottage">
+                    <img src="assets/sample.png" alt="Charming Cottage">
                     <div class="creation-info">
                         <h3>Charming Cottage</h3>
                         <span class="category">Residential</span>
